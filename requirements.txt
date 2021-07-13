@@ -1,0 +1,11 @@
+graphviz==0.16
+ipython==7.25.0
+jupyter-client==6.1.12
+jupyter-core==4.7.1
+matplotlib==3.4.2
+mglearn==0.1.9
+numpy==1.21.0
+pandas==1.3.0
+Pillow==8.3.1
+scikit-learn==0.24.2
+scipy==1.7.0
